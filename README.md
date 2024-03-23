@@ -78,7 +78,7 @@ Based on the analysis conducted, several key findings emerged:
 
 To replicate or extend the analysis conducted in this project, follow these steps:
 
-1. Clone the Repository: Clone this repository to your local machine using git clone https://github.com/parockson/analysis-into-indian-startup-ecosystem.git.
+1. Clone the Repository: Clone this repository to your local machine using git clone https://github.com/cjerop/analysis-into-indian-startup-ecosystem.git.
 
 2. Install Dependencies: Ensure all necessary dependencies are installed as per the requirements specified in requirements.txt.
    pip install python-dotenv
