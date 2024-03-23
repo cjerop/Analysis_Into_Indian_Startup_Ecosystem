@@ -1,29 +1,10 @@
-# analysis-into-indian-startup-ecosystem
+# Analysis-into-indian-startup-ecosystem
 My team is trying to venture into the Indian start-up ecosystem. This project aims to provide insights into the Indian startup ecosystem through data analysis. The analysis includes cleaning and processing raw data, exploring various aspects of the startup landscape, and deriving meaningful conclusions
 
 ### Team Lead
 Ntuk, Etebom
 
 ## Collaborators
-Mohammed Idris
-Etebom Ntuk
-Elvis Obeng Yeboah
-Prince Acquah Rockson
-Celestine Jerop Kaplelach
-Andy Konney
-
-### Table of Contents
-
-# analysis-into-indian-startup-ecosystem
-
-My team is trying to venture into the Indian start-up ecosystem. This project aims to provide insights into the Indian startup ecosystem through data analysis. The analysis includes cleaning and processing raw data, exploring various aspects of the startup landscape, and deriving meaningful conclusions.
-
-### Team Leader
-
-Ntuk, Etebom
-
-## Collaborators
-
 Mohammed Idris
 Etebom Ntuk
 Elvis Obeng Yeboah
