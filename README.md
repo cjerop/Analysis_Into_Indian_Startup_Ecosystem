@@ -70,7 +70,7 @@ query = "SELECT * FROM LP1_startup_funding2021"
 dat4 = pd.read_sql(query, connection)
 dat4.head()
 
-3. Data Integration: Consolidating data from different sources into a unified dataset.
+2. Data Integration: Consolidating data from different sources into a unified dataset.
 
 #merging 2020 and 2021 datasets
 merged_table= pd.concat([dat3, dat4], ignore_index=True)
@@ -84,13 +84,13 @@ merger
 data_df= pd.concat([dat1, merger], ignore_index=True)
 data_df
 
-5. Missing Value Handling: Identifying and dealing with missing values through imputation or removal.
+3. Missing Value Handling: Identifying and dealing with missing values through imputation or removal.
 
-6. Outlier Detection: Detecting and handling outliers that could skew the analysis results.
+4. Outlier Detection: Detecting and handling outliers that could skew the analysis results.
 
-7. Normalization and Standardization: Ensuring consistency and comparability of data by normalizing or standardizing where necessary.
+5. Normalization and Standardization: Ensuring consistency and comparability of data by normalizing or standardizing where necessary.
 
-8. Data Validation: Verifying the integrity of the cleaned dataset to ensure accuracy in subsequent analyses..
+5. Data Validation: Verifying the integrity of the cleaned dataset to ensure accuracy in subsequent analyses..
 
 ## Data Analysis Methods
 
