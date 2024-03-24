@@ -37,7 +37,7 @@ The Univariate distribution of Main Sector, Industry, Stage, and HeadQuarter var
 
 ## Distribution of HeadQuarter
 
-
+https://github.com/cjerop/Analysis_Into_Indian_Startup_Ecosystem/blob/main/Screenshot%20-%20Power%20BI.png
 
 ### (ii) BIVARIATE ANALYSIS
 We looked into the relationships that exists between some select categorical and numerical variables and present our findings below
