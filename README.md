@@ -52,7 +52,7 @@ The top 10 Main Sectors by Years of Existence. They include Transport & Logistic
 
 Clone this repository to your desired folder
 cd your-folder
-git clone https://github.com/heldana30/Azubi_Africa_Live_Project_Indian_Startup_Funding_Analysis.git
+git clone https://github.com/Cjerop/Analysis_Into_Indian_Startup_Funding_Analysis.git
 
 Create a virtual environment
 python -m venv env
