@@ -50,25 +50,26 @@ Fintech is the Main Sector with the most fundings.
 
 The top 10 Main Sectors by Years of Existence. They include Transport & Logistics, Fintech, Food & Beverages, Healthtech, Business, E-commerce, Healthcare & Wellness, Technology, Edtech, and Finance in no particular order.
 
-Clone this repository to your desired folder
+# Clone this repository to your desired folder
 cd your-folder
 git clone https://github.com/Cjerop/Analysis_Into_Indian_Startup_Funding_Analysis.git
 
-Create a virtual environment
+# Create a virtual environment
 python -m venv env
 
-Activate the virtual environment
+# Activate the virtual environment
 env/Scripts/activate
 
 ## CONTRIBUTORS
 This is an LP1 project completed by
-- Prince Acquah Rockson - Etebom Ntuk - Elvis Obeng - Mohammed Idris - Celestine Jerop Kaplelach - Andy Konney
+Prince Acquah Rockson - Etebom Ntuk - Elvis Obeng - Mohammed Idris - Celestine Jerop Kaplelach - Andy Konney
   
 
   ## AUTHOR
+Celestine Jerop Kaplelach
 GitHub: [GitHub Profile](https://github.com/cjerop)
 
-LinkedIn: [linkedin.com/in/celestine-kaplelach]
+LinkedIn: [LinkedIn Profile](linkedin.com/in/celestine-kaplelach)
 
 
 
