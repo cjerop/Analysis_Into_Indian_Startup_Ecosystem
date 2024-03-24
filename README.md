@@ -44,12 +44,32 @@ We looked into the relationships that exists between some select categorical and
 
 ## Main Sector vs Amount
 
-From the image above, Fintech is the Main Sector with the most fundings.
+Fintech is the Main Sector with the most fundings.
 
 ## Main Sector vs Years of Existence
 
-From the image above, we can see that the top 10 Main Sectors by Years of Existence. They include Transport & Logistics, Fintech, Food & Beverages, Healthtech, Business, E-commerce, Healthcare & Wellness, Technology, Edtech, and Finance in no particular order.
+The top 10 Main Sectors by Years of Existence. They include Transport & Logistics, Fintech, Food & Beverages, Healthtech, Business, E-commerce, Healthcare & Wellness, Technology, Edtech, and Finance in no particular order.
+
+Clone this repository to your desired folder
+cd your-folder
+git clone https://github.com/heldana30/Azubi_Africa_Live_Project_Indian_Startup_Funding_Analysis.git
+
+Create a virtual environment
+python -m venv env
+
+Activate the virtual environment
+env/Scripts/activate
 
 ## CONTRIBUTORS
 This is an LP1 project completed by
 - Prince Acquah Rockson - Etebom Ntuk - Elvis Obeng - Mohammed Idris - Celestine Jerop Kaplelach - Andy Konney
+  
+
+  ## AUTHOR
+GitHub: [GitHub Profile](https://github.com/cjerop)
+
+LinkedIn: [linkedin.com/in/celestine-kaplelach]
+
+
+
+  
